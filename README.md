@@ -13,28 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Sobre mim
+## About me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
-
-## Minhas Skills
-
-![C#]( https://img.shields.io/badge/C#-8A2BE2)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
+- 🚀 Exploring new technologies and developing software solutions.
+- 💻 I’m currently working as {stack you work on} at {company}.
+- 📖 Learning more about {technologies you are learning}.
+  
 <div>
-<a href="https://github.com/xofanna">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofanna&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xofanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofanna&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=xofanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Onde me encontrar
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logoColor=007ACC)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logoColor=007ACC)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+## Contact
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![GitHub](https://img.shields.io/github/followers/xofanna?label=follow&style=social)](https://github.com/xofanna)
