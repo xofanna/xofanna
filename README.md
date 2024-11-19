@@ -4,14 +4,14 @@
 - 💻 I’m currently working as {stack you work on} at {company}.
 - 📖 Learning more about {technologies you are learning}.
 
+[![](https://skillicons.dev/icons?i=unity,blender,cs,python,visualstudio,pycharm,github)]()
+
+<!--
 <div>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofanna&layout=compact&count_private=true&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xofanna&show_icons=true&count_private=true&theme=dracula"/>
 </div>
 
-[![](https://skillicons.dev/icons?i=unity,cs,python,blender,visualstudio,github)]()
-
-<!--
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logoColor=007ACC)
