@@ -4,7 +4,7 @@
 - 💻 I’m currently working as {stack you work on} at {company}.
 - 📖 Learning more about {technologies you are learning}.
 
-[![](https://skillicons.dev/icons?i=unity,blender,cs,python,visualstudio,pycharm,github)]()
+![](https://skillicons.dev/icons?i=unity,blender,cs,python,visualstudio,pycharm,github)
 
 <!--
 <div>
