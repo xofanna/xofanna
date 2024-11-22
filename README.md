@@ -1,8 +1,8 @@
 ## About me
 
 - 🚀 Exploring new technologies and developing software solutions.
-- 💻 I’m currently working as {stack you work on} at {company}.
-- 📖 Learning more about {technologies you are learning}.
+- 💻 I’m currently working as software engineer.
+- 📖 Learning more about software and game development.
 
 ![](https://skillicons.dev/icons?i=unity,blender,cs,python,visualstudio,pycharm,github)
 
