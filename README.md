@@ -4,7 +4,7 @@
 - 💻 I’m currently working as software engineer.
 - 📖 Learning more about software and game development.
 
-![](https://skillicons.dev/icons?i=unity,blender,cs,python,visualstudio,pycharm,github)
+<img src="https://skillicons.dev/icons?i=unity,blender,cs,python,visualstudio,pycharm,github">
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofanna&hide=html&layout=compact&theme=dracula&include_all_commits=true" alt="Github Stats">
@@ -14,5 +14,5 @@
 
 ## Contact
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-Giovanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanna-paulussi-tofanetto)](https://www.linkedin.com/in/giovanna-paulussi-tofanetto)
 [![GitHub](https://img.shields.io/github/followers/xofanna?label=follow&style=social)](https://github.com/xofanna)
