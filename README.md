@@ -14,5 +14,6 @@
 
 ## Contact
 
+![Visitor Count](https://komarev.com/ghpvc/?username=xofanna)
 [![Linkedin](https://img.shields.io/badge/-Giovanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanna-paulussi-tofanetto)](https://www.linkedin.com/in/giovanna-paulussi-tofanetto)
 [![GitHub](https://img.shields.io/github/followers/xofanna?label=follow&style=social)](https://github.com/xofanna)
