@@ -4,7 +4,7 @@
 - 💻 I’m currently working as software engineer.
 - 📖 Learning more about software and game development.
 
-<img src="https://skillicons.dev/icons?i=unity,blender,cs,python,visualstudio,pycharm,github">
+<img src="https://skillicons.dev/icons?i=unity,blender,cs,python,visualstudio,pycharm,github,vscode">
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofanna&hide=html&layout=compact&theme=dracula&include_all_commits=true" alt="Github Stats">
